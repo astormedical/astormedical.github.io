@@ -31,7 +31,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="" alt="logo"/></a>
+                    <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"/></a>
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
@@ -160,15 +160,15 @@
             <div class="col-sm-4 info-blocks">
                 <i class="icon-info-blocks fa fa-hospital-o"></i>
                 <div class="info-blocks-in">
-                    <h3>Garantía</h3>
-                    <p>Nuestros productos y servicios 100% garantizados. </p>
+                    <h3>Fully Responsive</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
                 </div>
             </div>
             <div class="col-sm-4 info-blocks">
                 <i class="icon-info-blocks fa fa-ambulance "></i>
                 <div class="info-blocks-in">
-                    <h3>Servicio</h3>
-                    <p>Atención personalizada a nuestros clientes. </p>
+                    <h3>CSS3 + HTML5</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
                 </div>
             </div>
         </div>
