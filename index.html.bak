@@ -62,14 +62,14 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
 			 <li>
-                <img src="img/slides/0.jpg" alt="flexslider" /> 
+                <img src="img/slides/0.webp" alt="flexslider" /> 
                 <div class="flex-caption">
                     <h3></h3> 
 					<p></p>  
                 </div> 
               </li>
               <li>
-                <img src="img/slides/1.jpg" alt="flexslider" /> 
+                <img src="img/slides/1.webp" alt="flexslider" /> 
                 <div class="flex-caption">
                     <h3 style="color:  #8c2474  "></h3> 
 					<p></p>  
