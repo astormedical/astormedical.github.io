@@ -820,7 +820,7 @@ ul.breadcrumb li a:hover {
 /* page headline3
 ==================================== */
 
-#inner-headline4{background: #7c1c74  url(../img/slides/3.jpg) top right;position: relative;margin: 0;padding: 24px 0;background-size: 39%;background-repeat: no-repeat;background-size: contain;padding: 0;}
+#inner-headline4{background: #7c1c74  url(../img/slides/4.jpg) top right;position: relative;margin: 0;padding: 24px 0;background-size: 39%;background-repeat: no-repeat;background-size: contain;padding: 0;}
 #inner-headline4:before{content:'';position: absolute;/* background: rgba(0, 0, 0, 0.42); */z-index: 1;top: 0;left: 0;right: 0;bottom: 0;}
 
 #inner-headline4 h2.pageTitle{
