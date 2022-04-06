@@ -13,7 +13,7 @@
 <link href="css/magnific-popup.css" rel="stylesheet"> 
 <link href="css/style.css" rel="stylesheet" />
 <link href="css/gallery-1.css" rel="stylesheet">
- 
+<link  rel="icon"   href="img/logo.png" type="image/png" /> 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -94,9 +94,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/1.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/works/1.webp" class="img-responsive" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/1.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/1.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -113,9 +113,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature outside">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/2.jpg" class="img-responsive" alt="2nd gallery Thumb">
+                                <img src="img/works/2.webp" class="img-responsive" alt="2nd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/2.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/2.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -132,9 +132,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper photography artwork">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/3.jpg" class="img-responsive" alt="3rd gallery Thumb">
+                                <img src="img/works/3.webp" class="img-responsive" alt="3rd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/3.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/3.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -151,9 +151,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper creative nature">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/4.jpg" class="img-responsive" alt="4th gallery Thumb">
+                                <img src="img/works/4.webp" class="img-responsive" alt="4th gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/4.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/4.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -170,9 +170,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/5.jpg" class="img-responsive" alt="5th gallery Thumb">
+                                <img src="img/works/5.webp" class="img-responsive" alt="5th gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/5.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/5.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -189,9 +189,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/6.jpg" class="img-responsive" alt="6th gallery Thumb">
+                                <img src="img/works/6.webp" class="img-responsive" alt="6th gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/6.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/6.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -211,9 +211,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/7.jpg" class="img-responsive" alt="1st gallery Thumb">
+                                <img src="img/works/7.webp" class="img-responsive" alt="1st gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/7.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/7.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
@@ -230,9 +230,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature outside">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
-                                <img src="img/works/8.jpg" class="img-responsive" alt="2nd gallery Thumb">
+                                <img src="img/works/8.webp" class="img-responsive" alt="2nd gallery Thumb">
                                 <div class="image-overlay"></div>
-                                <a href="img/works/8.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="img/works/8.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
                             </div>
                             <div class="gallery-details">
