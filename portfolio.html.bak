@@ -80,11 +80,11 @@
 			<div class="editContent">
 	            <ul class="filter">
 	                <li class="active"><a href="#" data-filter="*">Fujinon</a></li>
-	                <li><a href="#" data-filter=".artwork">Sony</a></li>
-	                <li><a href="#" data-filter=".creative">Bovie Medical</a></li>
-	                <li><a href="#" data-filter=".nature">Philips</a></li>
-	                <li><a href="#" data-filter=".outside">Nonin</a></li>
-	                <li><a href="#" data-filter=".photography">Bailida</a></li>
+	                <li><a href="#" data-filter=".artwork">Welch Allyn </a></li>
+	                <li><a href="#" data-filter=".creative">Eizo</a></li>
+	                <li><a href="#" data-filter=".nature">Pentax</a></li>
+	                <li><a href="#" data-filter=".outside">Boston Scientific</a></li>
+	                <li><a href="#" data-filter=".photography">Olympus</a></li>
 	            </ul>
 			</div>
             <!-- /.gallery-filter -->
