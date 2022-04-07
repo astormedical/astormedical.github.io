@@ -328,14 +328,14 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="widget">
-					<h5 class="widgetheading">Quick Links</h5>
+					<div class="widget">
+					<h5 class="widgetheading">Links</h5>
 					<ul class="link-list">
-						<li><a href="#">Latest Events</a></li>
-						<li><a href="#">Terms and conditions</a></li>
-						<li><a href="#">Privacy policy</a></li>
-						<li><a href="#">Career</a></li>
-						<li><a href="#">Contact us</a></li>
+						<li><a href="https://astormedical.github.io/about.html">Compañía</a></li>
+						<li><a href="https://astormedical.github.io/services.html">Servicios</a></li>
+						<li><a href="https://astormedical.github.io/portfolio.html">Catálogo</a></li>
+						<li><a href="https://astormedical.github.io/contact.html">Contacto</a></li>
+						<li><a href="#">Términos y Condiciones</a></li>
 					</ul>
 				</div>
 			</div>
@@ -367,7 +367,7 @@
 				<div class="col-lg-6">
 					<div class="copyright">
 						<p>
-							<span>Copyright ©2022 Astor Medical<span> <a href="https://webthemez.com/tag/free" target="_blank">by WebThemez.com.</a> 
+							<span>&copy; Overtake 2018 All right reserved. <span> <a href="https://webthemez.com/tag/free" target="_blank">Free Templates</a> by WebThemez.com.
 						</p>
 					</div>
 				</div>
