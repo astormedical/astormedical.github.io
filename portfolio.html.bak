@@ -228,7 +228,7 @@
                         </div>
                     </div>
                     <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature outside">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper Fujinon">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/8.webp" class="img-responsive" alt="2nd gallery Thumb">
@@ -326,9 +326,66 @@
                             	</div>
                             </div>
                         </div>
-            
+             <div class="row">
+                <div id="isotope-gallery-container">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper Pentax">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/10.webp" class="img-responsive" alt="1st gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/10.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
+                            </div>
+                            <div class="gallery-details">
+                            	<div class="editContent">
+	                                <h5>Endoscopia</h5>
+                            	</div>
+                            	<div class="editContent">
+	                                <p>Videogastroscopio ultrasónico EUS J-10 Line up Pentax Medical</p>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.gallery-item-wrapper -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper Olympus">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/11.webp" class="img-responsive" alt="2nd gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/11.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
+                            </div>
+                            <div class="gallery-details">
+                            	<div class="editContent">
+                                	<h5>Endoscopia</h5>
+                            	</div>
+                            	<div class="editContent">
+                                	<p>Monitor de Endoscopia OEV 261-H Olympus</p>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.gallery-item-wrapper -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper Olympus">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/12.webp" class="img-responsive" alt="3rd gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/12.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
+                            </div>
+                            <div class="gallery-details">
+                            	<div class="editContent">
+                                	<h5>Endoscopia</h5>
+                            	</div>
+                            	<div class="editContent">
+                                	<p>Unidad de Regulación CO2 (UCR) Olympus</p>
+                            	</div>
+                            </div>
+                        </div>
                     
                 </div>
+				
                 <!-- /.isotope-gallery-container -->
             </div>
             <!-- /.row --> 
