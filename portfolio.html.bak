@@ -266,6 +266,68 @@
             
                     
                 </div>
+					<!-- /.gallery-filter -->
+            
+            <div class="row">
+                <div id="isotope-gallery-container">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/10.webp" class="img-responsive" alt="1st gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/10.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
+                            </div>
+                            <div class="gallery-details">
+                            	<div class="editContent">
+	                                <h5>Endoscopia</h5>
+                            	</div>
+                            	<div class="editContent">
+	                                <p>Videogastroscopio ultrasónico EUS J-10 Line up Pentax Medical</p>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.gallery-item-wrapper -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature outside">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/11.webp" class="img-responsive" alt="2nd gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/11.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
+                            </div>
+                            <div class="gallery-details">
+                            	<div class="editContent">
+                                	<h5>Endoscopia</h5>
+                            	</div>
+                            	<div class="editContent">
+                                	<p>Monitor de Endoscopia OEV 261-H Olympus</p>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.gallery-item-wrapper -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper photography artwork">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/9.webp" class="img-responsive" alt="3rd gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/9.webp" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+                                <a href="#" class="gallery-link"><i class="fa fa-link"></i></a>
+                            </div>
+                            <div class="gallery-details">
+                            	<div class="editContent">
+                                	<h5>Endoscopia</h5>
+                            	</div>
+                            	<div class="editContent">
+                                	<p>Fujifilm Bomba de Agua JW-2</p>
+                            	</div>
+                            </div>
+                        </div>
+            
+                    
+                </div>
                 <!-- /.isotope-gallery-container -->
             </div>
             <!-- /.row --> 
@@ -295,14 +357,14 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="widget">
-					<h5 class="widgetheading">Quick Links</h5>
+					<div class="widget">
+					<h5 class="widgetheading">Links</h5>
 					<ul class="link-list">
-						<li><a href="#">Latest Events</a></li>
-						<li><a href="#">Terms and conditions</a></li>
-						<li><a href="#">Privacy policy</a></li>
-						<li><a href="#">Career</a></li>
-						<li><a href="#">Contact us</a></li>
+						<li><a href="https://astormedical.github.io/index.html">Inicio</a></li>
+						<li><a href="https://astormedical.github.io/about.html">Compañía</a></li>
+						<li><a href="https://astormedical.github.io/services.html">Servicios</a></li>
+						<li><a href="https://astormedical.github.io/contact.html">Contacto</a></li>
+						<li><a href="#">Términos y Condiciones</a></li>
 					</ul>
 				</div>
 			</div>
