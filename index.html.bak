@@ -69,6 +69,13 @@
 					<p></p>  
                 </div> 
               </li>
+			   <li>
+                <img src="img/slides/5.webp" alt="flexslider" /> 
+                <div class="flex-caption">
+                    <h3></h3> 
+					<p></p>  
+                </div> 
+              </li>
               <li>
                 <img src="img/slides/1.webp" alt="flexslider" /> 
                 <div class="flex-caption">
@@ -90,13 +97,7 @@
 					<p</p>  
                 </div> 
               </li>
-			   <li>
-                <img src="img/slides/5.webp" alt="flexslider" /> 
-                <div class="flex-caption">
-                    <h3></h3> 
-					<p></p>  
-                </div> 
-              </li>
+			  
 			   <li>
                 <img src="img/slides/4.webp" alt="flexslider" /> 
                 <div class="flex-caption">
