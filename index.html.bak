@@ -70,7 +70,7 @@
                 </div> 
               </li>
               <li>
-                <img src="img/slides/1.jpg" alt="flexslider" /> 
+                <img src="img/slides/1.webp" alt="flexslider" /> 
                 <div class="flex-caption">
                     <h3 style="color:  #8c2474  "></h3> 
 					<p></p>  
@@ -92,6 +92,13 @@
               </li>
 			   <li>
                 <img src="img/slides/4.webp" alt="flexslider" /> 
+                <div class="flex-caption">
+                    <h3></h3> 
+					<p></p>  
+                </div> 
+              </li>
+			   <li>
+                <img src="img/slides/5.webp" alt="flexslider" /> 
                 <div class="flex-caption">
                     <h3></h3> 
 					<p></p>  
@@ -135,7 +142,7 @@
 		<div class="col-md-3 text-center"> 
 		<div class="box"> 
 		<span class="icons c3"><i class="icon-settings icons"></i></span> <div class="box-area">
-		<h3>Instrumentación y Accesorios</h3> <p>Biomédicos, quirúrgicos, terapeúticos, dispositivos eléctricos, electrónicos y mecánicos, software clínicos.  </p> <p><a href="#">Leer más</a></p></div>
+		<h3>Instrumentación y Accesorios</h3><p>Biomédicos, quirúrgicos, terapeúticos, dispositivos eléctricos, electrónicos y mecánicos, software clínicos.  </p> <p><a href="#">Leer más</a></p></div>
 		</div></div>
 		<div class="col-md-3 text-center"> 
 		<div class="box">
