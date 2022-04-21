@@ -78,7 +78,7 @@
 		 <div class="control-group">
                     <div class="controls">
 			<input type="text" class="form-control" 
-			   	   placeholder="Nombre Completo" id="name" required
+			   	   placeholder="Nombre Completo" name="name" required
 			           data-validation-required-message="Ingrese su nombre" />
 			  <p class="help-block"></p>
 		   </div>
@@ -86,10 +86,10 @@
                 <div class="control-group">
                   <div class="controls">
 			<input type="email" class="form-control" placeholder="Email" 
-			   	            id="email" required
+			   	            name="email" required
 			   		   data-validation-required-message="Ingrese su correo" />
 					   <input type="phone" class="form-control" placeholder="Teléfono" 
-			   	            id="phone" required
+			   	            name="phone" required
 			   		   data-validation-required-message="Ingrese su Número de teléfono" />
 		</div>
 	    </div> 	
@@ -97,7 +97,7 @@
                <div class="control-group">
                  <div class="controls">
 				 <textarea rows="10" cols="100" class="form-control" 
-                       placeholder="Escriba su Mensaje" id="message" required
+                       placeholder="Escriba su Mensaje" name="message" required
 		       data-validation-required-message="Please enter your message" minlength="5" 
                        data-validation-minlength-message="Min 5 characters" 
                         maxlength="999" style="resize:none"></textarea>
